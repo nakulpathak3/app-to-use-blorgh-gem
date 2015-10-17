@@ -10,4 +10,4 @@ If the gem defines any routes, those routes will now also be available on your a
 
 
 #### In Blorgh's case
-After adding the gem to your gemfile and running `bundle`, your app will have the routes such as '/blog' and '/blog/articles'. You can create articles, write comments, etc. For a complete list of routes, use `rake routes`.
+After adding the gem to your gemfile and running `bundle`, your app will have routes such as '/blog' and '/blog/articles'. You can create articles, write comments, etc. For a complete list of routes, use `rake routes`.
