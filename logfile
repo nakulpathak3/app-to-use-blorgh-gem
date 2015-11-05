@@ -1,0 +1,19 @@
+LOG:  database system was shut down at 2015-11-05 12:02:50 EST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+ERROR:  syntax error at or near "." at character 33
+STATEMENT:  CREATE DATABASE "db/development"."postgresql" ENCODING = 'utf8'
+ERROR:  syntax error at or near "." at character 26
+STATEMENT:  CREATE DATABASE "db/test"."postgresql" ENCODING = 'utf8'
+ERROR:  syntax error at or near "." at character 32
+STATEMENT:  CREATE DATABASE "db/production"."postgresql" ENCODING = 'utf8'
+ERROR:  database "sample_app_db" already exists
+STATEMENT:  CREATE DATABASE "sample_app_db" ENCODING = 'unicode'
+ERROR:  database "sample_app_db" already exists
+STATEMENT:  CREATE DATABASE "sample_app_db" ENCODING = 'unicode'
+ERROR:  database "sample_app_db" already exists
+STATEMENT:  CREATE DATABASE "sample_app_db" ENCODING = 'unicode'
+ERROR:  database "sample_app_db" already exists
+STATEMENT:  CREATE DATABASE "sample_app_db" ENCODING = 'unicode'
+ERROR:  database "sample_app_db" already exists
+STATEMENT:  CREATE DATABASE "sample_app_db" ENCODING = 'unicode'
