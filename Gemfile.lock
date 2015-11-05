@@ -1,5 +1,6 @@
-PATH
-  remote: ~/src/blorgh
+GIT
+  remote: git://github.com/nakulpathak3/blorgh-engine-gem.git
+  revision: 0d74b68726496b8e58cd8c600568dde004e15ea6
   specs:
     blorgh (0.0.1)
       rails (~> 4.2.2)
@@ -163,4 +164,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.10.5
+   1.10.6
