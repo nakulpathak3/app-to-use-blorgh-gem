@@ -10,7 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'blorgh', :git => 'git://github.com/nakulpathak3/blorgh-engine-gem.git'
+gem 'blorgh', :github => 'nakulpathak3/blorgh-engine-gem'
 
 group :development, :test do
   gem 'byebug'
